@@ -17,6 +17,7 @@ Steps:
 2. Dashboard :
   Built using Power BI to show :
     I. Yearly Revenue Trends
+
     II. Top Vendors by Market Share
     III. Regional Revenue Breakdown
     IV. Top 10 Vendors by Revenue
@@ -27,5 +28,5 @@ Steps:
     III. Logging for error tracking
 
  Here is Dashboard:
- ![My Image](assets/"D:/Gartner/Data Dashboard.png")
 
+ <img width="912" height="505" alt="Data Dashboard" src="https://github.com/user-attachments/assets/66f36883-45b5-4803-bdf4-d132def61b27" />
