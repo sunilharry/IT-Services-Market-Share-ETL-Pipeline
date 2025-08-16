@@ -26,7 +26,6 @@ Steps:
     II. Batch processing to improve speed
     III. Logging for error tracking
 
-
-   Here is Dashboard:
-   ![My Image](assets/"D:/Gartner/Data Dashboard.png")
+ Here is Dashboard:
+ ![My Image](assets/"D:/Gartner/Data Dashboard.png")
 
