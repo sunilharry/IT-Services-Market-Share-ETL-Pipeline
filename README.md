@@ -25,3 +25,7 @@ Steps:
     I. Indexed tables for faster queries
     II. Batch processing to improve speed
     III. Logging for error tracking
+
+
+   Here is Dashboard:
+   "D:\Gartner\Data Dashboard.png"
