@@ -28,4 +28,5 @@ Steps:
 
 
    Here is Dashboard:
-   "D:\Gartner\Data Dashboard.png"
+   ![My Image](assets/"D:/Gartner/Data Dashboard.png")
+
